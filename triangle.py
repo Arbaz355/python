@@ -1,4 +1,4 @@
-# Area of trianle 
+# Area of triangle
 l = eval(input("Enter the length:"));
 h = eval(input("Enter th hight:"));
 area = (1/2)*l*h;
